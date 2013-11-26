@@ -2,3 +2,8 @@
 *.pot
 *.pyc
 local_settings.py
+celeryev.pid
+celerybeat-schedule
+bextract_single.mf
+TAGS
+core
